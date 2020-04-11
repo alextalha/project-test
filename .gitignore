@@ -1,0 +1,40 @@
+.sass-cache
+.sublime-grunt.cache
+*.css.map
+style.css
+js
+img
+node_modules
+
+# Mantém diretórios `img` e `js` dentro de `dev`
+!dev/img
+!dev/js
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+package-lock.json
+pnpm-lock.yaml

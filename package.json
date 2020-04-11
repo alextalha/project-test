@@ -1,0 +1,35 @@
+{
+    "name": "animale-blog",
+    "version": "0.1.0",
+    "description": "Blog Animale",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/original-io/animale-blog"
+    },
+    "author": {
+        "name": "Original.io",
+        "email": "marconi@original.io"
+    },
+    "bugs": {
+        "url": "https://bitbucket.org/original-io/animale-blog/issues"
+    },
+    "homepage": "https://bitbucket.org/original-io/animale-blog",
+    "devDependencies": {
+        "autoprefixer-core": "^6.0.1",
+        "grunt": "^1.0.1",
+        "grunt-browser-sync": "^2.2.0",
+        "grunt-combine-media-queries": "^1.0.20",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-cssmin": "^2.2.0",
+        "grunt-contrib-imagemin": "^3.1.0",
+        "grunt-contrib-uglify": "^3.0.1",
+        "grunt-contrib-watch": "^1.0.0",
+        "grunt-dev-update": "^2.2.0",
+        "grunt-ftpush": "^0.3.3",
+        "grunt-postcss": "^0.8.0",
+        "grunt-sass": "^2.0.0",
+        "grunt-svgmin": "^4.0.0",
+        "hamburgers": "^0.8.1",
+        "matchdep": "^1.0.1"
+    }
+}
